@@ -13,3 +13,7 @@ The dataset used in this project is sourced from Bloomberg and cannot be shared 
 
 ## Usage  
 The R scripts can be run sequentially to replicate the analysis and generate the portfolio performance comparisons. To modify the tracking period, simply adjust the date parameters within the R scripts to your desired timeframe.
+
+**Andy Giorgio**  
+Villanova University  
+Statistics & Economics | Minor in CS  
