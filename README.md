@@ -1,10 +1,10 @@
 # Factor-Based Portfolio Optimization in Financial Economics
 
 ## Project Overview  
-This project constructs and evaluates portfolios based on well-known market anomalies—momentum, value, and size factors. It incorporates volatility and risk analysis to optimize portfolio performance and compare results against the S&P 500 benchmark over time. The goal is to explore the effectiveness of anomaly-driven investment strategies through empirical modeling.
+This project constructs and evaluates portfolios based on well-known market anomalies—momentum, value, and volatility factors. It incorporates volatility and risk analysis to optimize portfolio performance and compare results against the S&P 500 benchmark over time. The goal is to explore the effectiveness of anomaly-driven investment strategies through empirical modeling.
 
 ## Repository Contents  
-- **R code:** Scripts for data ingestion, model construction, portfolio optimization, and performance tracking versus the S&P 500.  
+- **R code:** Script for data ingestion, model construction, portfolio optimization, and performance tracking versus the S&P 500.  
 - **Final Paper:** A comprehensive research paper detailing methodology, analysis, results, and conclusions.  
 - **Presentation:** The final presentation summarizing the project scope, findings, and insights.
 
